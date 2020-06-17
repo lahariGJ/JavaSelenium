@@ -4,7 +4,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import org.json.JSONArray;
 import org.json.JSONObject;
-// create json mutiple files with key 
+
+// create multiple json files based on key, start and end values
+
 public class sample {
 
 	public static void main(String[] args) throws IOException {
